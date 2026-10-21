@@ -1,0 +1,273 @@
+{
+  "logo": {
+    "text": "Logo",
+    "link": "/"
+  },
+  "nav": [
+    {
+      "id": "home",
+      "label": "Home",
+      "link": "/",
+      "children": []
+    },
+    {
+      "id": "about",
+      "label": "Chi siamo",
+      "link": "/about",
+      "children": [
+        {
+          "id": "mission-vision",
+          "label": "Missione e visione",
+          "link": "/about#mission"
+        },
+        {
+          "id": "regulations",
+          "label": "Regolamento",
+          "link": "/about#regulations"
+        },
+        {
+          "id": "people",
+          "label": "Persone",
+          "link": "/people"
+        },
+        {
+          "id": "contact",
+          "label": "Contatti e unisciti a noi",
+          "link": "/contact"
+        }
+      ]
+    },
+    {
+      "id": "networking",
+      "label": "Networking",
+      "link": "/networking",
+      "children": [
+        {
+          "id": "partners",
+          "label": "Partner",
+          "link": "/networking#partnerships"
+        },
+        {
+          "id": "scholars",
+          "label": "Studiosi ospiti",
+          "link": "/networking#visiting-scholars"
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "label": "Progetti",
+      "link": "/projects",
+      "dynamicChildren": {
+        "source": "projects",
+        "limit": 3,
+        "viewAll": {
+          "label": "Vedi tutti i progetti",
+          "link": "/projects"
+        }
+      }
+    },
+    {
+      "id": "news",
+      "label": "Notizie ed eventi",
+      "link": "/news",
+      "dynamicChildren": {
+        "source": "news",
+        "limit": 3,
+        "viewAll": {
+          "label": "Vedi tutte le notizie e gli eventi",
+          "link": "/news"
+        }
+      }
+    }
+  ],
+  "languageSwitch": {
+    "label": "Lingua",
+    "options": [
+      {
+        "code": "it",
+        "label": "IT"
+      },
+      {
+        "code": "en",
+        "label": "EN"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Dipartimento di Ricerca Sociale e Ambientale. Studiamo città, energia e istruzione con partner in tutta Europa.",
+    "contact": {
+      "title": "Contatti",
+      "address": "Via Esempio 12, 10000 Città di esempio, Paese",
+      "email": "email@example.com",
+      "phone": "+39 02 5550 1234"
+    },
+    "quickLinks": {
+      "title": "Collegamenti rapidi",
+      "items": [
+        {
+          "label": "Home",
+          "link": "/"
+        },
+        {
+          "label": "Chi siamo",
+          "link": "/about"
+        },
+        {
+          "label": "Persone",
+          "link": "/people"
+        },
+        {
+          "label": "Networking",
+          "link": "/networking"
+        },
+        {
+          "label": "Progetti",
+          "link": "/projects"
+        },
+        {
+          "label": "Notizie ed eventi",
+          "link": "/news"
+        },
+        {
+          "label": "Contatti",
+          "link": "/contact"
+        }
+      ]
+    },
+    "social": [
+      {
+        "id": "facebook",
+        "icon": "facebook",
+        "label": "Facebook",
+        "link": "#"
+      },
+      {
+        "id": "instagram",
+        "icon": "instagram",
+        "label": "Instagram",
+        "link": "#"
+      },
+      {
+        "id": "linkedin",
+        "icon": "linkedin",
+        "label": "LinkedIn",
+        "link": "#"
+      }
+    ],
+    "university": {
+      "label": "Sito web dell'università",
+      "link": "#"
+    },
+    "copyright": "© 2026 Logo. Prototipo con contenuti segnaposto."
+  },
+  "filters": {
+    "all": "Tutti",
+    "status": {
+      "label": "Stato",
+      "options": [
+        {
+          "value": "planned",
+          "label": "Pianificato"
+        },
+        {
+          "value": "active",
+          "label": "Attivo"
+        },
+        {
+          "value": "completed",
+          "label": "Concluso"
+        },
+        {
+          "value": "cancelled",
+          "label": "Annullato"
+        }
+      ]
+    },
+    "theme": {
+      "label": "Tema",
+      "options": [
+        {
+          "value": "theme-01",
+          "label": "Città sostenibili"
+        },
+        {
+          "value": "theme-02",
+          "label": "Energia e clima"
+        },
+        {
+          "value": "theme-03",
+          "label": "Innovazione digitale"
+        },
+        {
+          "value": "theme-04",
+          "label": "Salute e ambiente"
+        },
+        {
+          "value": "theme-05",
+          "label": "Educazione e società"
+        }
+      ]
+    },
+    "type": {
+      "label": "Tipo",
+      "options": [
+        {
+          "value": "news",
+          "label": "Notizie"
+        },
+        {
+          "value": "event",
+          "label": "Eventi"
+        }
+      ]
+    },
+    "year": {
+      "label": "Anno"
+    },
+    "language": {
+      "label": "Lingua",
+      "options": [
+        {
+          "value": "en",
+          "label": "Inglese"
+        },
+        {
+          "value": "it",
+          "label": "Italiano"
+        },
+        {
+          "value": "both",
+          "label": "EN + IT"
+        }
+      ]
+    }
+  },
+  "groups": [
+    {
+      "value": "board",
+      "label": "Consiglio direttivo"
+    },
+    {
+      "value": "committee",
+      "label": "Comitato scientifico"
+    },
+    {
+      "value": "members",
+      "label": "Membri dell'università"
+    }
+  ],
+  "search": {
+    "enabled": false,
+    "label": "Cerca",
+    "placeholder": "Cerca nel sito"
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "text": "La pagina che stai cercando non esiste o è stata spostata.",
+    "cta": {
+      "label": "Torna alla Home",
+      "link": "/"
+    }
+  }
+}

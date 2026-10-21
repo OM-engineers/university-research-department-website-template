@@ -1,0 +1,273 @@
+{
+  "logo": {
+    "text": "Logo",
+    "link": "/"
+  },
+  "nav": [
+    {
+      "id": "home",
+      "label": "Home",
+      "link": "/",
+      "children": []
+    },
+    {
+      "id": "about",
+      "label": "About us",
+      "link": "/about",
+      "children": [
+        {
+          "id": "mission-vision",
+          "label": "Mission and vision",
+          "link": "/about#mission"
+        },
+        {
+          "id": "regulations",
+          "label": "Regulations",
+          "link": "/about#regulations"
+        },
+        {
+          "id": "people",
+          "label": "People",
+          "link": "/people"
+        },
+        {
+          "id": "contact",
+          "label": "Contact and join us",
+          "link": "/contact"
+        }
+      ]
+    },
+    {
+      "id": "networking",
+      "label": "Networking",
+      "link": "/networking",
+      "children": [
+        {
+          "id": "partners",
+          "label": "Partners",
+          "link": "/networking#partnerships"
+        },
+        {
+          "id": "scholars",
+          "label": "Visiting scholars",
+          "link": "/networking#visiting-scholars"
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "link": "/projects",
+      "dynamicChildren": {
+        "source": "projects",
+        "limit": 3,
+        "viewAll": {
+          "label": "View all projects",
+          "link": "/projects"
+        }
+      }
+    },
+    {
+      "id": "news",
+      "label": "News & events",
+      "link": "/news",
+      "dynamicChildren": {
+        "source": "news",
+        "limit": 3,
+        "viewAll": {
+          "label": "View all news and events",
+          "link": "/news"
+        }
+      }
+    }
+  ],
+  "languageSwitch": {
+    "label": "Language",
+    "options": [
+      {
+        "code": "it",
+        "label": "IT"
+      },
+      {
+        "code": "en",
+        "label": "EN"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Department of Social and Environmental Research. We study cities, energy and education with partners across Europe.",
+    "contact": {
+      "title": "Contact",
+      "address": "12 Sample Street, 10000 Sample City, Country",
+      "email": "email@example.com",
+      "phone": "+39 02 5550 1234"
+    },
+    "quickLinks": {
+      "title": "Quick links",
+      "items": [
+        {
+          "label": "Home",
+          "link": "/"
+        },
+        {
+          "label": "About us",
+          "link": "/about"
+        },
+        {
+          "label": "People",
+          "link": "/people"
+        },
+        {
+          "label": "Networking",
+          "link": "/networking"
+        },
+        {
+          "label": "Projects",
+          "link": "/projects"
+        },
+        {
+          "label": "News and events",
+          "link": "/news"
+        },
+        {
+          "label": "Contact",
+          "link": "/contact"
+        }
+      ]
+    },
+    "social": [
+      {
+        "id": "facebook",
+        "icon": "facebook",
+        "label": "Facebook",
+        "link": "#"
+      },
+      {
+        "id": "instagram",
+        "icon": "instagram",
+        "label": "Instagram",
+        "link": "#"
+      },
+      {
+        "id": "linkedin",
+        "icon": "linkedin",
+        "label": "LinkedIn",
+        "link": "#"
+      }
+    ],
+    "university": {
+      "label": "University website",
+      "link": "#"
+    },
+    "copyright": "© 2026 Logo. Prototype with placeholder content."
+  },
+  "filters": {
+    "all": "All",
+    "status": {
+      "label": "Status",
+      "options": [
+        {
+          "value": "planned",
+          "label": "Planned"
+        },
+        {
+          "value": "active",
+          "label": "Active"
+        },
+        {
+          "value": "completed",
+          "label": "Completed"
+        },
+        {
+          "value": "cancelled",
+          "label": "Cancelled"
+        }
+      ]
+    },
+    "theme": {
+      "label": "Theme",
+      "options": [
+        {
+          "value": "theme-01",
+          "label": "Sustainable Cities"
+        },
+        {
+          "value": "theme-02",
+          "label": "Energy and Climate"
+        },
+        {
+          "value": "theme-03",
+          "label": "Digital Innovation"
+        },
+        {
+          "value": "theme-04",
+          "label": "Health and Environment"
+        },
+        {
+          "value": "theme-05",
+          "label": "Education and Society"
+        }
+      ]
+    },
+    "type": {
+      "label": "Type",
+      "options": [
+        {
+          "value": "news",
+          "label": "News"
+        },
+        {
+          "value": "event",
+          "label": "Events"
+        }
+      ]
+    },
+    "year": {
+      "label": "Year"
+    },
+    "language": {
+      "label": "Language",
+      "options": [
+        {
+          "value": "en",
+          "label": "English"
+        },
+        {
+          "value": "it",
+          "label": "Italian"
+        },
+        {
+          "value": "both",
+          "label": "EN + IT"
+        }
+      ]
+    }
+  },
+  "groups": [
+    {
+      "value": "board",
+      "label": "Executive board"
+    },
+    {
+      "value": "committee",
+      "label": "Scientific committee"
+    },
+    {
+      "value": "members",
+      "label": "University members"
+    }
+  ],
+  "search": {
+    "enabled": false,
+    "label": "Search",
+    "placeholder": "Search the site"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has been moved.",
+    "cta": {
+      "label": "Back to Home",
+      "link": "/"
+    }
+  }
+}

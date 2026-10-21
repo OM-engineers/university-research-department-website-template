@@ -1,0 +1,123 @@
+{
+  "title": "Progetti",
+  "intro": "Esplora i nostri progetti in corso e completati.",
+  "emptyState": "Nessun progetto trovato.",
+  "items": [
+    {
+      "id": "proj-001",
+      "title": "Progetto 01: Mobilità urbana",
+      "summary": "Analisi di reti di trasporto pubblico sostenibili e soluzioni intelligenti di gestione del traffico per le aree metropolitane moderne.",
+      "theme": "theme-01",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-001",
+        "pers-002"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": "proj-002",
+      "title": "Progetto 02: Energia rinnovabile",
+      "summary": "Analisi dell'efficienza e dell'integrazione nella rete di sistemi fotovoltaici decentralizzati nelle comunità rurali.",
+      "theme": "theme-02",
+      "status": "completed",
+      "year": 2025,
+      "people": [
+        "pers-003"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-003",
+      "title": "Progetto 03: Archivi digitali",
+      "summary": "Sviluppo di archivi digitali ad accesso aperto per la conservazione e lo studio di manoscritti e reperti storici.",
+      "theme": "theme-03",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-004",
+        "pers-005"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": "proj-004",
+      "title": "Progetto 04: Salute ambientale",
+      "summary": "Monitoraggio degli indici di qualità dell'aria e valutazione degli impatti sulla salute respiratoria nelle zone industriali e residenziali.",
+      "theme": "theme-04",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-006"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-005",
+      "title": "Progetto 05: Educazione inclusiva",
+      "summary": "Progettazione di strumenti di apprendimento digitale collaborativo per supportare l'accessibilità e il coinvolgimento degli studenti con bisogni speciali.",
+      "theme": "theme-05",
+      "status": "completed",
+      "year": 2024,
+      "people": [
+        "pers-007",
+        "pers-008"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-006",
+      "title": "Progetto 06: Economia circolare",
+      "summary": "Valutazione delle strategie di riduzione del ciclo di vita e dei flussi di materiale da rifiuto a risorsa nei settori manifatturieri regionali.",
+      "theme": "theme-01",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-005"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": "proj-007",
+      "title": "Progetto 07: Resilienza costiera",
+      "summary": "Modellazione delle dinamiche del moto ondoso e test di soluzioni basate sulla natura per mitigare i rischi di erosione costiera.",
+      "theme": "theme-02",
+      "status": "completed",
+      "year": 2025,
+      "people": [
+        "pers-006",
+        "pers-007"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-008",
+      "title": "Progetto 08: Agricoltura intelligente",
+      "summary": "Implementazione di reti di sensori IoT per il monitoraggio di precisione dell'umidità del suolo e la gestione ottimizzata dell'irrigazione delle colture.",
+      "theme": "theme-03",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-008"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <rect width="1600" height="900" fill="#F1F2F4"/>
+  <path d="M0 0L1600 900M1600 0L0 900" stroke="#D5D9DE" stroke-width="4"/>
+  <text x="800" y="465" font-family="Inter, system-ui, sans-serif" font-size="48" fill="#5B6B77" text-anchor="middle">16:9</text>
+</svg>

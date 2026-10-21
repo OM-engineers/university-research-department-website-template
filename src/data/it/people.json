@@ -1,0 +1,111 @@
+{
+  "title": "Persone",
+  "intro": "Incontra il nostro team, il consiglio direttivo e i membri della rete.",
+  "emptyState": "Nessun membro trovato.",
+  "items": [
+    {
+      "id": "pers-001",
+      "name": "Maria Rossi",
+      "role": "Presidente",
+      "department": "Direzione generale",
+      "topics": [
+        "theme-01"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "maria.rossi@example.com",
+      "profilelink": "https://example.com/",
+      "group": "board"
+    },
+    {
+      "id": "pers-002",
+      "name": "Giuseppe Verdi",
+      "role": "Vicepresidente",
+      "department": "Strategia e innovazione",
+      "topics": [
+        "theme-01",
+        "theme-02"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "giuseppe.verdi@example.com",
+      "group": "board"
+    },
+    {
+      "id": "pers-003",
+      "name": "Anna Bianchi",
+      "role": "Coordinatrice del comitato",
+      "department": "Comitato scientifico",
+      "topics": [
+        "theme-01"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "anna.bianchi@example.com",
+      "group": "committee"
+    },
+    {
+      "id": "pers-004",
+      "name": "Luca Neri",
+      "role": "Membro del comitato",
+      "department": "Ricerca e sviluppo",
+      "topics": [
+        "theme-01",
+        "theme-02"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "luca.neri@example.com",
+      "profilelink": "https://example.com/",
+      "group": "committee"
+    },
+    {
+      "id": "pers-005",
+      "name": "Sofia Romano",
+      "role": "Membro",
+      "department": "Mobilità urbana",
+      "topics": [
+        "theme-01"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "sofia.romano@example.com",
+      "profilelink": "https://example.com/",
+      "group": "members"
+    },
+    {
+      "id": "pers-006",
+      "name": "Marco Colombo",
+      "role": "Membro",
+      "department": "Energia rinnovabile",
+      "topics": [
+        "theme-01",
+        "theme-02"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "marco.colombo@example.com",
+      "group": "members"
+    },
+    {
+      "id": "pers-007",
+      "name": "Elena Esposito",
+      "role": "Membro",
+      "department": "Archivi digitali",
+      "topics": [
+        "theme-01"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "elena.esposito@example.com",
+      "group": "members"
+    },
+    {
+      "id": "pers-008",
+      "name": "Davide Ricci",
+      "role": "Membro",
+      "department": "Salute ambientale",
+      "topics": [
+        "theme-01",
+        "theme-02"
+      ],
+      "photo": "/images/placeholders/photo-4x5.svg",
+      "email": "davide.ricci@example.com",
+      "profilelink": "https://example.com/",
+      "group": "members"
+    }
+  ]
+}

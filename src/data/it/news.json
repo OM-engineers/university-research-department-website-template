@@ -1,0 +1,73 @@
+{
+  "title": "Notizie ed eventi",
+  "intro": "Rimani aggiornato sulle nostre ultime novità, comunicati ed eventi in programma.",
+  "emptyState": "Nessuna notizia disponibile.",
+  "items": [
+    {
+      "id": "news-001",
+      "type": "news",
+      "title": "Nuovo finanziamento di ricerca per la mobilità urbana sostenibile",
+      "date": "2025-12-15",
+      "location": "Sede Centrale – Aula Magna",
+      "summary": "Il nostro dipartimento ha ottenuto un finanziamento per sviluppare modelli di analisi del trasporto pubblico di nuova generazione. Il progetto durerà tre anni insieme a partner accademici internazionali.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "en"
+    },
+    {
+      "id": "news-002",
+      "type": "event",
+      "title": "Conferenza annuale sull'innovazione digitale e l'intelligenza artificiale",
+      "date": "2026-10-05",
+      "location": "Dipartimento di Ingegneria – Aula 3B",
+      "summary": "Unisciti a ricercatori ed esperti del settore per esplorare i recenti sviluppi nell'apprendimento automatico applicato. Le iscrizioni sono aperte a studenti e docenti.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "both"
+    },
+    {
+      "id": "news-003",
+      "type": "news",
+      "title": "Pubblicazione del rapporto sull'impatto ambientale",
+      "date": "2026-10-20",
+      "location": "Biblioteca di Scienze – Sala Conferenze",
+      "summary": "Il team di ricerca ha pubblicato i suoi ultimi risultati sulle tendenze della qualità dell'aria locale e sulle strategie di mitigazione. Il rapporto completo è disponibile online per il download.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "it"
+    },
+    {
+      "id": "news-004",
+      "type": "event",
+      "title": "Workshop internazionale sull'integrazione delle energie rinnovabili",
+      "date": "2026-11-10",
+      "location": "Polo dell'Innovazione – Auditorium",
+      "summary": "Un workshop interattivo di due giorni incentrato sull'ottimizzazione delle reti intelligenti e sullo stoccaggio di energia pulita. Tra i relatori figurano eminenti studiosi del settore.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "both"
+    },
+    {
+      "id": "news-005",
+      "type": "event",
+      "title": "Ciclo di seminari: Approcci moderni ai dati sulla salute pubblica",
+      "date": "2026-12-03",
+      "location": "Facoltà di Medicina – Aula A",
+      "summary": "Lezioni di docenti ospiti che esaminano le tecniche di modellazione statistica per il monitoraggio della salute della comunità. Aperto a studenti, ricercatori e operatori sanitari.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "it"
+    },
+    {
+      "id": "news-006",
+      "type": "event",
+      "title": "Rassegna dell'innovazione studentesca e aperitivo di networking",
+      "date": "2027-01-20",
+      "location": "Centro Studenti – Spazio Espositivo",
+      "summary": "Gli studenti magistrali presenteranno i loro prototipi interdisciplinari a mentor accademici e industriali. I partecipanti potranno discutere potenziali collaborazioni durante la sessione.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "en"
+    }
+  ]
+}

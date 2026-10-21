@@ -1,0 +1,82 @@
+{
+  "title": "Contatti",
+  "intro": "Hai una domanda sulla nostra ricerca, su un progetto o su un evento? Scrivici con il modulo qui sotto oppure usa i contatti di questa pagina. Di solito rispondiamo entro pochi giorni lavorativi.",
+  "details": {
+    "title": "Dettagli di contatto",
+    "address": "Via Esempio 12, 10000 Città di esempio, Paese",
+    "email": "email@example.com",
+    "phone": "+39 02 5550 1234"
+  },
+  "map": {
+    "title": "Mappa",
+    "placeholder": "Mappa della sede del dipartimento",
+    "link": "#"
+  },
+  "form": {
+    "id": "inquiry-form",
+    "title": "Inviaci un messaggio",
+    "fields": [
+      {
+        "id": "name",
+        "type": "text",
+        "label": "Nome",
+        "placeholder": "Inserisci il tuo nome completo",
+        "required": true,
+        "errorMessage": "Inserisci il tuo nome."
+      },
+      {
+        "id": "email",
+        "type": "email",
+        "label": "Email",
+        "placeholder": "nome@example.com",
+        "required": true,
+        "errorMessage": "Inserisci un indirizzo email valido."
+      },
+      {
+        "id": "subject",
+        "type": "text",
+        "label": "Oggetto",
+        "placeholder": "Di cosa si tratta?",
+        "required": false,
+        "errorMessage": ""
+      },
+      {
+        "id": "message",
+        "type": "textarea",
+        "label": "Messaggio",
+        "placeholder": "Scrivi qui il tuo messaggio...",
+        "required": true,
+        "errorMessage": "Scrivi un messaggio."
+      }
+    ],
+    "submit": "Invia",
+    "success": "Grazie. Questo è un prototipo: non è stato inviato nulla.",
+    "error": "Controlla i campi evidenziati."
+  },
+  "joinUs": {
+    "anchor": "join-us",
+    "title": "Unisciti a noi",
+    "intro": "Accogliamo studenti, ricercatori e organizzazioni partner che vogliono partecipare al nostro lavoro. Unirsi al dipartimento richiede tre semplici passi, dal primo messaggio all'avvio della collaborazione.",
+    "steps": [
+      {
+        "id": "step-01",
+        "title": "Passo 01: Contattaci",
+        "description": "Inviaci un breve messaggio con il modulo di questa pagina. Raccontaci chi sei, il tuo ambito di interesse e il tipo di collaborazione che hai in mente."
+      },
+      {
+        "id": "step-02",
+        "title": "Passo 02: Incontra il team",
+        "description": "Un membro del team ti risponde e propone un breve incontro, online o di persona, per parlare dei tuoi interessi e dei progetti aperti in questo momento."
+      },
+      {
+        "id": "step-03",
+        "title": "Passo 03: Inizia a collaborare",
+        "description": "Quando avremo concordato un tema e un piano, riceverai tutte le informazioni necessarie per entrare nel gruppo e iniziare il tuo progetto o la tua visita."
+      }
+    ],
+    "cta": {
+      "label": "Contattaci",
+      "link": "#inquiry-form"
+    }
+  }
+}

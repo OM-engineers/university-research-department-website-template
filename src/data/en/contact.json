@@ -1,0 +1,82 @@
+{
+  "title": "Contact",
+  "intro": "Have a question about our research, a project or an event? Write to us with the form below or use the contact details on this page. We usually reply within a few working days.",
+  "details": {
+    "title": "Contact details",
+    "address": "12 Sample Street, 10000 Sample City, Country",
+    "email": "email@example.com",
+    "phone": "+39 02 5550 1234"
+  },
+  "map": {
+    "title": "Map",
+    "placeholder": "Map of the department location",
+    "link": "#"
+  },
+  "form": {
+    "id": "inquiry-form",
+    "title": "Send us a message",
+    "fields": [
+      {
+        "id": "name",
+        "type": "text",
+        "label": "Name",
+        "placeholder": "Enter your full name",
+        "required": true,
+        "errorMessage": "Please enter your name."
+      },
+      {
+        "id": "email",
+        "type": "email",
+        "label": "Email",
+        "placeholder": "name@example.com",
+        "required": true,
+        "errorMessage": "Please enter a valid email address."
+      },
+      {
+        "id": "subject",
+        "type": "text",
+        "label": "Subject",
+        "placeholder": "What is this about?",
+        "required": false,
+        "errorMessage": ""
+      },
+      {
+        "id": "message",
+        "type": "textarea",
+        "label": "Message",
+        "placeholder": "Write your message here...",
+        "required": true,
+        "errorMessage": "Please write a message."
+      }
+    ],
+    "submit": "Send",
+    "success": "Thank you. This is a prototype: nothing was sent.",
+    "error": "Please check the highlighted fields."
+  },
+  "joinUs": {
+    "anchor": "join-us",
+    "title": "Join us",
+    "intro": "We welcome students, researchers and partner organisations who want to take part in our work. Joining the department takes three simple steps, from the first message to the start of the collaboration.",
+    "steps": [
+      {
+        "id": "step-01",
+        "title": "Step 01: Get in touch",
+        "description": "Send us a short message with the form on this page. Tell us who you are, your area of interest and the kind of collaboration you have in mind."
+      },
+      {
+        "id": "step-02",
+        "title": "Step 02: Meet the team",
+        "description": "A member of the team replies and proposes a short meeting, online or in person, to talk about your interests and the projects open at the moment."
+      },
+      {
+        "id": "step-03",
+        "title": "Step 03: Start working together",
+        "description": "Once we agree on a topic and a plan, you receive everything you need to join the group and begin your project or visit."
+      }
+    ],
+    "cta": {
+      "label": "Contact us",
+      "link": "#inquiry-form"
+    }
+  }
+}

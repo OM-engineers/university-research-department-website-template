@@ -1,0 +1,73 @@
+{
+  "title": "News & events",
+  "intro": "Stay up to date with our latest news, announcements and upcoming events.",
+  "emptyState": "No news available.",
+  "items": [
+    {
+      "id": "news-001",
+      "type": "news",
+      "title": "New research grant awarded for sustainable urban mobility",
+      "date": "2025-12-15",
+      "location": "Main Campus – Aula Magna",
+      "summary": "Our department has secured funding to develop next-generation public transport analysis models. The project will run for three years with international academic partners.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "en"
+    },
+    {
+      "id": "news-002",
+      "type": "event",
+      "title": "Annual conference on digital innovation and artificial intelligence",
+      "date": "2026-10-05",
+      "location": "Department of Engineering – Room 3B",
+      "summary": "Join researchers and industry experts to explore recent developments in applied machine learning. Registration is open to students and faculty members.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "both"
+    },
+    {
+      "id": "news-003",
+      "type": "news",
+      "title": "Publication of the environmental impact report",
+      "date": "2026-10-20",
+      "location": "Science Library – Conference Hall",
+      "summary": "The research team released its latest findings on local air quality trends and mitigation strategies. The full report is now available online for public download.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "it"
+    },
+    {
+      "id": "news-004",
+      "type": "event",
+      "title": "International workshop on renewable energy integration",
+      "date": "2026-11-10",
+      "location": "Innovation Hub – Auditorium",
+      "summary": "A two-day interactive workshop focused on smart grid optimisation and clean energy storage solutions. Keynote speakers include leading scholars in the field.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "both"
+    },
+    {
+      "id": "news-005",
+      "type": "event",
+      "title": "Seminar series: Modern approaches to public health data",
+      "date": "2026-12-03",
+      "location": "Faculty of Medicine – Lecture Theatre A",
+      "summary": "Guest lectures examining statistical modelling techniques for monitoring community health outcomes. Open to all students, researchers and healthcare practitioners.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "it"
+    },
+    {
+      "id": "news-006",
+      "type": "event",
+      "title": "Student innovation showcase and networking reception",
+      "date": "2027-01-20",
+      "location": "Student Centre – Exhibition Space",
+      "summary": "Graduate students will present their interdisciplinary prototypes to academic and industrial mentors. Attendees can discuss potential research collaborations during the session.",
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "language": "en"
+    }
+  ]
+}

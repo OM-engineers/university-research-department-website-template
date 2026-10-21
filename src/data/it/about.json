@@ -1,0 +1,59 @@
+{
+  "title": "Chi siamo",
+  "intro": "Il Dipartimento riunisce ricercatori di diverse discipline per studiare come la conoscenza viene prodotta, condivisa e messa in pratica. Uniamo rigore scientifico e collaborazione aperta con università e istituzioni.",
+  "image": "/images/placeholders/image-16x9.svg",
+  "imageAlt": "Ricercatori che discutono un progetto attorno a un tavolo",
+  "missionVision": {
+    "anchor": "mission-vision",
+    "title": "Missione e visione",
+    "intro": "Missione e visione indicano la direzione di tutto ciò che facciamo.",
+    "items": [
+      {
+        "id": "mission",
+        "title": "Missione",
+        "text": "La nostra missione è condurre ricerca indipendente e di alta qualità e formare la prossima generazione di studiosi.",
+        "points": [
+          "Ricerca indipendente e di alta qualità",
+          "Formazione per dottorandi e giovani studiosi",
+          "Risultati aperti e accessibili"
+        ]
+      },
+      {
+        "id": "vision",
+        "title": "Visione",
+        "text": "La nostra visione è una comunità di ricerca aperta, inclusiva e riconosciuta per il suo contributo duraturo alla società.",
+        "points": [
+          "Una comunità di ricerca aperta e inclusiva",
+          "Un contributo duraturo alla società",
+          "Legami solidi con partner in Italia e all'estero"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "anchor": "background",
+    "title": "Storia",
+    "paragraphs": [
+      "Il Dipartimento è nato come un piccolo gruppo di ricerca che si riuniva per discutere domande comuni a più discipline. Col tempo è diventato una comunità strutturata, con un proprio programma di dottorato e seminari di ricerca.",
+      "Oggi ospita diversi gruppi di ricerca e accoglie ogni anno studiosi ospiti. Le collaborazioni con università straniere hanno reso la cooperazione internazionale una parte centrale del suo lavoro."
+    ]
+  },
+  "regulations": {
+    "anchor": "regulations",
+    "title": "Regolamento",
+    "description": "Il regolamento descrive come è organizzato il Dipartimento, come vengono prese le decisioni e quali norme valgono per membri e ospiti. Riguarda inoltre l'uso delle strutture comuni e le procedure per i progetti di ricerca.",
+    "file": {
+      "label": "Regulations.pdf",
+      "path": "/files/Regulations.pdf",
+      "type": "pdf",
+      "size": 609
+    },
+    "downloadLabel": "Scarica"
+  },
+  "cta": {
+    "title": "Mettiti in contatto",
+    "text": "Hai una domanda, un'idea o una proposta? Scrivici: siamo sempre lieti di sentire ricercatori e istituzioni che vogliono collaborare.",
+    "label": "Contattaci",
+    "link": "/contact"
+  }
+}

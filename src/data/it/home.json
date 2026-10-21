@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "title": "Promuovere l'innovazione per un futuro sostenibile",
+    "mission": "Potenziare le comunità attraverso la ricerca collaborativa, la tecnologia avanzata e progetti multidisciplinari.",
+    "image": "/images/placeholders/image-16x9.svg",
+    "imageAlt": "Ricercatori al lavoro nel dipartimento",
+    "ctas": [
+      {
+        "label": "Esplora i progetti",
+        "link": "/projects"
+      },
+      {
+        "label": "Ultimi eventi",
+        "link": "/news"
+      }
+    ]
+  },
+  "features": [
+    {
+      "id": "projects",
+      "icon": "projects",
+      "title": "Progetti",
+      "description": "Scopri il nostro portfolio di iniziative di ricerca attive e studi completati in vari settori.",
+      "link": "/projects"
+    },
+    {
+      "id": "people",
+      "icon": "people",
+      "title": "Persone",
+      "description": "Incontra il nostro team di esperti, ricercatori e collaboratori che guidano l'innovazione.",
+      "link": "/people"
+    },
+    {
+      "id": "news",
+      "icon": "news",
+      "title": "Notizie ed eventi",
+      "description": "Rimani aggiornato con i nostri ultimi annunci, workshop in arrivo e conferenze pubbliche.",
+      "link": "/news"
+    },
+    {
+      "id": "about",
+      "icon": "about",
+      "title": "Chi siamo",
+      "description": "Scopri di più sulla nostra visione organizzativa, i valori fondamentali e il contesto istituzionale.",
+      "link": "/about"
+    }
+  ],
+  "mission": {
+    "image": "/images/placeholders/image-16x9.svg",
+    "imageAlt": "Studenti e personale in un'aula seminariale",
+    "title": "La nostra missione",
+    "sentences": [
+      "Ci impegniamo a colmare il divario tra la ricerca accademica e le applicazioni pratiche per la società.",
+      "Le nostre iniziative puntano a favorire una crescita sostenibile e la resilienza tecnologica a livello globale.",
+      "Collaboriamo strettamente con partner internazionali per affrontare le sfide complesse del nostro tempo."
+    ],
+    "readMore": {
+      "label": "Leggi di più",
+      "link": "/about#mission"
+    }
+  },
+  "latest": {
+    "title": "Ultime notizie ed eventi",
+    "seeAll": {
+      "label": "Vedi tutti",
+      "link": "/news"
+    },
+    "count": 3
+  }
+}

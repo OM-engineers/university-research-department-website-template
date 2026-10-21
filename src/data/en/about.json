@@ -1,0 +1,59 @@
+{
+  "title": "About us",
+  "intro": "The Department brings together researchers from several disciplines to study how knowledge is produced, shared and put to use. We combine rigorous inquiry with open collaboration across universities and institutions.",
+  "image": "/images/placeholders/image-16x9.svg",
+  "imageAlt": "Researchers discussing a project around a table",
+  "missionVision": {
+    "anchor": "mission-vision",
+    "title": "Mission and vision",
+    "intro": "Our mission and vision set the direction of everything we do.",
+    "items": [
+      {
+        "id": "mission",
+        "title": "Mission",
+        "text": "Our mission is to carry out independent, high-quality research and to train the next generation of scholars.",
+        "points": [
+          "Independent, high-quality research",
+          "Training for doctoral students and early-career scholars",
+          "Open and accessible results"
+        ]
+      },
+      {
+        "id": "vision",
+        "title": "Vision",
+        "text": "Our vision is a research community that is open, inclusive and recognised for its lasting contribution to society.",
+        "points": [
+          "An open and inclusive research community",
+          "A lasting contribution to society",
+          "Strong ties with partners at home and abroad"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "anchor": "background",
+    "title": "Background",
+    "paragraphs": [
+      "The Department was founded as a small research group that met to discuss shared questions across disciplines. Over time it grew into a structured community with its own doctoral programme and research seminars.",
+      "Today it hosts several research groups and welcomes visiting scholars every year. Partnerships with universities abroad have made international collaboration a core part of its work."
+    ]
+  },
+  "regulations": {
+    "anchor": "regulations",
+    "title": "Regulations",
+    "description": "The regulations document explains how the Department is organised, how decisions are made and what rules apply to members and visitors. It also covers the use of shared facilities and the procedures for research projects.",
+    "file": {
+      "label": "Regulations.pdf",
+      "path": "/files/Regulations.pdf",
+      "type": "pdf",
+      "size": 609
+    },
+    "downloadLabel": "Download"
+  },
+  "cta": {
+    "title": "Get in touch",
+    "text": "Do you have a question, an idea or a proposal? Write to us: we are always glad to hear from researchers and institutions who want to collaborate.",
+    "label": "Contact us",
+    "link": "/contact"
+  }
+}

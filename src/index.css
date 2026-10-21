@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+/* Design tokens (T04, frozen on Day 5). Owner: Team B. */
+@theme static {
+  /* Colours (T04 palette, D-07) */
+  --color-text: #2E3F4B;
+  --color-accent: #B52330;
+  --color-accent-hover: #8F1B25;
+  --color-surface: #F1F2F4;
+  --color-surface-warm: #EEEAE0;
+  --color-border: #D5D9DE;
+  --color-background: #FFFFFF;
+  --color-text-muted: #5B6B77;
+  --color-success: #1A6B43;
+  --color-error: #A8141B;
+  --color-link: #A8141B;
+
+  /* Typography (Inter, fallback system-ui) */
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --text-h1: 44px;
+  --text-h2: 32px;
+  --text-h3: 24px;
+  --text-body: 16px;
+  --text-small: 14px;
+  --lh-h1: 1.1;
+  --lh-h2: 1.15;
+  --lh-h3: 1.2;
+  --lh-body: 1.55;
+  --lh-small: 1.5;
+  --weight-regular: 400;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  /* Spacing scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --space-6: 48px;
+  --space-7: 64px;
+
+  /* Shape and layout */
+  --radius: 8px;
+  --radius-card: 12px;
+  --border: 1px solid var(--color-border);
+  --shadow-hover: 0 6px 18px rgba(0, 0, 0, 0.14);
+  --focus-ring: 3px solid var(--color-text);
+  --focus-offset: 2px;
+  --max-width: 1200px;
+  --gutter: 24px;
+  --button-height: 44px;
+  --bp-tablet: 768px;
+  --bp-desktop: 1024px;
+}
+
+@layer base {
+  body {
+    @apply bg-white font-sans text-base leading-[1.55] text-text;
+  }
+  :focus-visible {
+    outline: var(--focus-ring);
+    outline-offset: var(--focus-offset);
+  }
+}

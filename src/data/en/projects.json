@@ -1,0 +1,123 @@
+{
+  "title": "Projects",
+  "intro": "Explore our ongoing and completed projects.",
+  "emptyState": "No projects found.",
+  "items": [
+    {
+      "id": "proj-001",
+      "title": "Project 01: Urban Mobility",
+      "summary": "Investigating sustainable public transport networks and smart traffic management solutions for modern metropolitan areas.",
+      "theme": "theme-01",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-001",
+        "pers-002"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": "proj-002",
+      "title": "Project 02: Renewable Energy",
+      "summary": "Analysing the efficiency and grid integration of decentralized photovoltaic systems in rural communities.",
+      "theme": "theme-02",
+      "status": "completed",
+      "year": 2025,
+      "people": [
+        "pers-003"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-003",
+      "title": "Project 03: Digital Archives",
+      "summary": "Developing open-access digital repositories for the preservation and study of historical manuscripts and artefacts.",
+      "theme": "theme-03",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-004",
+        "pers-005"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": "proj-004",
+      "title": "Project 04: Environmental Health",
+      "summary": "Monitoring air quality indices and assessing respiratory health impacts across industrial and residential zones.",
+      "theme": "theme-04",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-006"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-005",
+      "title": "Project 05: Inclusive Education",
+      "summary": "Designing collaborative digital learning tools to support accessibility and engagement for students with special needs.",
+      "theme": "theme-05",
+      "status": "completed",
+      "year": 2024,
+      "people": [
+        "pers-007",
+        "pers-008"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-006",
+      "title": "Project 06: Circular Economy",
+      "summary": "Evaluating lifecycle reduction strategies and waste-to-resource material flows in regional manufacturing sectors.",
+      "theme": "theme-01",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-005"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": "proj-007",
+      "title": "Project 07: Coastal Resilience",
+      "summary": "Modelling wave action dynamics and testing nature-based solutions to mitigate shoreline erosion risks.",
+      "theme": "theme-02",
+      "status": "completed",
+      "year": 2025,
+      "people": [
+        "pers-006",
+        "pers-007"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": "proj-008",
+      "title": "Project 08: Smart Agriculture",
+      "summary": "Deploying IoT sensor networks for precision soil moisture tracking and optimised crop irrigation management.",
+      "theme": "theme-03",
+      "status": "active",
+      "year": 2026,
+      "people": [
+        "pers-008"
+      ],
+      "image": "/images/placeholders/image-16x9.svg",
+      "link": "#",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Networking",
+  "intro": "We collaborate with universities, institutions and researchers worldwide.",
+  "emptyState": "No network items found.",
+  "partners": {
+    "anchor": "partnerships",
+    "title": "Partnerships and agreements",
+    "items": [
+      {
+        "id": "part-001",
+        "name": "Partner University One",
+        "text": "Joint doctoral supervision and student exchange since 2025.",
+        "logo": "/images/placeholders/image-16x9.svg",
+        "tags": [
+          "Agreement",
+          "2025"
+        ],
+        "link": "#"
+      },
+      {
+        "id": "part-002",
+        "name": "Partner Institute Two",
+        "text": "Shared seminar series and co-authored publications.",
+        "logo": "/images/placeholders/image-16x9.svg",
+        "tags": [
+          "Agreement",
+          "2026"
+        ],
+        "link": "#"
+      },
+      {
+        "id": "part-003",
+        "name": "Partner University Three",
+        "text": "Collaborative research programme and staff mobility.",
+        "logo": "/images/placeholders/image-16x9.svg",
+        "tags": [
+          "Agreement",
+          "2027"
+        ],
+        "link": "#"
+      }
+    ]
+  },
+  "scholars": {
+    "anchor": "visiting-scholars",
+    "title": "Visiting scholars",
+    "items": [
+      {
+        "id": "schol-001",
+        "name": "Dr. Anna Kowalski",
+        "role": "Associate Professor",
+        "institution": "Partner University Four",
+        "period": "Jan - Mar 2026",
+        "photo": "/images/placeholders/photo-4x5.svg",
+        "link": "#"
+      },
+      {
+        "id": "schol-002",
+        "name": "Dr. Thomas Weber",
+        "role": "Senior Researcher",
+        "institution": "Partner University Five",
+        "period": "Sep - Nov 2026",
+        "photo": "/images/placeholders/photo-4x5.svg",
+        "link": "#"
+      }
+    ],
+    "apply": {
+      "title": "Visit us",
+      "text": "Spend a research period with us and join our community of scholars.",
+      "label": "Apply",
+      "link": "/contact#join-us"
+    }
+  }
+}

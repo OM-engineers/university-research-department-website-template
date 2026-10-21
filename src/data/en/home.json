@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "title": "Advancing Innovation for a Sustainable Future",
+    "mission": "Empowering communities through collaborative research, advanced technology, and multidisciplinary projects.",
+    "image": "/images/placeholders/image-16x9.svg",
+    "imageAlt": "Researchers at work in the department",
+    "ctas": [
+      {
+        "label": "Explore projects",
+        "link": "/projects"
+      },
+      {
+        "label": "Latest events",
+        "link": "/news"
+      }
+    ]
+  },
+  "features": [
+    {
+      "id": "projects",
+      "icon": "projects",
+      "title": "Projects",
+      "description": "Discover our portfolio of active research initiatives and completed studies across various sectors.",
+      "link": "/projects"
+    },
+    {
+      "id": "people",
+      "icon": "people",
+      "title": "People",
+      "description": "Meet our diverse team of experts, researchers, and collaborators driving innovation forward.",
+      "link": "/people"
+    },
+    {
+      "id": "news",
+      "icon": "news",
+      "title": "News and events",
+      "description": "Stay updated with our latest announcements, upcoming workshops, and public conferences.",
+      "link": "/news"
+    },
+    {
+      "id": "about",
+      "icon": "about",
+      "title": "About us",
+      "description": "Learn more about our organisational vision, core values, and institutional background.",
+      "link": "/about"
+    }
+  ],
+  "mission": {
+    "image": "/images/placeholders/image-16x9.svg",
+    "imageAlt": "Students and staff in a seminar room",
+    "title": "Our mission",
+    "sentences": [
+      "We strive to bridge the gap between academic research and practical societal applications.",
+      "Our initiatives focus on fostering sustainable growth and technological resilience globally.",
+      "We collaborate closely with international partners to address complex modern challenges."
+    ],
+    "readMore": {
+      "label": "Read more",
+      "link": "/about#mission"
+    }
+  },
+  "latest": {
+    "title": "Latest news and events",
+    "seeAll": {
+      "label": "See all",
+      "link": "/news"
+    },
+    "count": 3
+  }
+}

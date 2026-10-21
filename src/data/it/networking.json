@@ -1,0 +1,74 @@
+{
+  "title": "Networking",
+  "intro": "Collaboriamo con università, istituzioni e ricercatori di tutto il mondo.",
+  "emptyState": "Nessun elemento di rete trovato.",
+  "partners": {
+    "anchor": "partnerships",
+    "title": "Collaborazioni e accordi",
+    "items": [
+      {
+        "id": "part-001",
+        "name": "Università partner uno",
+        "text": "Co-tutela di dottorato e scambio di studenti dal 2025.",
+        "logo": "/images/placeholders/image-16x9.svg",
+        "tags": [
+          "Accordo",
+          "2025"
+        ],
+        "link": "#"
+      },
+      {
+        "id": "part-002",
+        "name": "Istituto partner due",
+        "text": "Ciclo di seminari condiviso e pubblicazioni in co-autoria.",
+        "logo": "/images/placeholders/image-16x9.svg",
+        "tags": [
+          "Accordo",
+          "2026"
+        ],
+        "link": "#"
+      },
+      {
+        "id": "part-003",
+        "name": "Università partner tre",
+        "text": "Programma di ricerca collaborativo e mobilità del personale.",
+        "logo": "/images/placeholders/image-16x9.svg",
+        "tags": [
+          "Accordo",
+          "2027"
+        ],
+        "link": "#"
+      }
+    ]
+  },
+  "scholars": {
+    "anchor": "visiting-scholars",
+    "title": "Studiosi ospiti",
+    "items": [
+      {
+        "id": "schol-001",
+        "name": "Dott.ssa Anna Kowalski",
+        "role": "Professoressa associata",
+        "institution": "Università partner quattro",
+        "period": "Gen - Mar 2026",
+        "photo": "/images/placeholders/photo-4x5.svg",
+        "link": "#"
+      },
+      {
+        "id": "schol-002",
+        "name": "Dott. Thomas Weber",
+        "role": "Ricercatore senior",
+        "institution": "Università partner cinque",
+        "period": "Set - Nov 2026",
+        "photo": "/images/placeholders/photo-4x5.svg",
+        "link": "#"
+      }
+    ],
+    "apply": {
+      "title": "Vieni a trovarci",
+      "text": "Trascorri un periodo di ricerca con noi e unisciti alla nostra comunità di studiosi.",
+      "label": "Candidati",
+      "link": "/contact#join-us"
+    }
+  }
+}
