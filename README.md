@@ -61,4 +61,4 @@ Built by 9 students (three teams: UX and content, frontend and UI, tech and QA) 
 
 - Code: MIT License (see `LICENSE`).
 - Font: Inter, SIL Open Font License 1.1 (package `@fontsource/inter`).
-- Images and icons: placeholders made for this project.
+- Images: placeholders made for this project. Social icons: Feather style (MIT).
